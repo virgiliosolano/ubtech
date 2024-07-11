@@ -20,7 +20,7 @@ A configuração a seguir depende do sistema operacional que você utiliza, para
 ## Windows e Linux Dist
 
  1. Faça o download do Android Studio em: [https://developer.android.com/studio](https://developer.android.com/studio)
- 2. Instale o Android Studio e em seguida abra o console e digite: **java -v** 
+ 2. Instale o Android Studio e em seguida abra o console e digite: **java --version** 
  3. Caso o Java não esteja instalado, baixe e instale através do link: [https://www.oracle.com/java/technologies/downloads](https://www.oracle.com/java/technologies/downloads)
  4. Com o Android Studio aberto, vá até  **Configurações -> Plugins** e na opção  **Marketplace** pesquise pelo  **Plugin** do  **Kotlin Multiplatform**, instale e reinicie o Android Studio
  5. https://developer.android.com/studio/preview/gemini
@@ -41,8 +41,8 @@ Para criar o nosso App Kotlin Multiplatform podemos utilizar 3 abordagens
 
  1. Android Studio -> Novo Projeto -> Kotlin Multiplatform App
  2. Pelo Wizard da JetBrains
-	 2.1. https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-create-first-app.html
-	 2.2. https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html
+ 3. https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-create-first-app.html
+ 4. https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html
 
 ## Criando a sua API Key do Gemini no AI Studio
 
